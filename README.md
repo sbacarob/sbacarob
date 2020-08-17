@@ -33,17 +33,5 @@ I work as a software engineer. I enjoy writing code and would like to contribute
 <code><a href="https://www.imdb.com/title/tt0470752/?ref_=nv_sr_srsg_0"><img src="https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_UX182_CR0,0,182,268_AL_.jpg" height=150/></a></code>
 <code><a href="https://www.imdb.com/title/tt0446029/?ref_=nv_sr_srsg_0"><img src="https://m.media-amazon.com/images/M/MV5BMTkwNTczNTMyOF5BMl5BanBnXkFtZTcwNzUxOTUyMw@@._V1_UX182_CR0,0,182,268_AL_.jpg" height=150/></a></code>
 
-### People in tech I admire:
 
-- [Linus Torvalds](https://github.com/torvalds)
-- [José Valim](https://github.com/josevalim)
-- [Guido Van Rossum](https://github.com/gvanrossum)
-- [Mike Bostock](https://github.com/mbostock)
-- [Hadley Wickham](https://github.com/hadley)
-- [Chris McCord](https://github.com/chrismccord)
-- [Michał Muskała](https://github.com/michalmuskala)
-- [Dave Thomas](https://pragdave.me/)
-
----
-
-This is the kind of product I would like to build and the kind of principles I respect: [Plausible Analytics](https://plausible.io/)
+**Goals**: [Plausible Analytics](https://plausible.io/)
